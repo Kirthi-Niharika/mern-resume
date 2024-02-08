@@ -11,10 +11,9 @@
 .mypic{
     position: relative;
     top: 90px;
-    left: 560px;
+    left: 590px;
     width: 100px;
     height: 100px;
-    background-size: cover;
 }
 body {
     font-family: sans-serif;
@@ -54,4 +53,10 @@ h2 {
 
 pre {
     font-family: sans-serif;
+}
+
+.sign {
+    position: relative;
+    top: 5px;
+    left: 620px;
 }
